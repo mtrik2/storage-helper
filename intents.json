@@ -1,0 +1,358 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "storage helper",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.FallbackIntent",
+                    "samples": []
+                },
+                {
+                    "name": "GetNewFactIntent",
+                    "slots": [],
+                    "samples": [
+                        "get a new fact"
+                    ]
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "UnityIntent",
+                    "slots": [],
+                    "samples": [
+                        "tell me the maximum capacity of an unity",
+                        "give me the maximum storage on a unity",
+                        "tell me max storage of a unity",
+                        "tell me the max capacity of a unity",
+                        "give me the max capacity of a unity",
+                        "how much can a unity store",
+                        "what is the storage on the unity",
+                        "what is the maximum storage on a unity",
+                        "what is the max capacity of a unity",
+                        "tell me the max capcity of unity."
+                    ]
+                },
+                {
+                    "name": "UnityXTMaxCapacityIntent",
+                    "slots": [],
+                    "samples": [
+                        "tell me the max storage of the unity XT",
+                        "give me the max capacity of the UNITY XT",
+                        "tell me the max storage of a Unity xt",
+                        "tell me the maximum storage of a Unity X T",
+                        "tell me how much a unity xt can store",
+                        "how much storage is on a unity xt",
+                        "how much can a unity xt store",
+                        "what can a unity xt store",
+                        "what is the max capacity of a unity xt",
+                        "what is maximum storage of unity xt"
+                    ]
+                },
+                {
+                    "name": "SCSeriesMaxCapacityIntent",
+                    "slots": [],
+                    "samples": [
+                        "whats the max capacity of an sc series",
+                        "what is the maximum storage of an SC Series",
+                        "tell me the max storage of SC Series",
+                        "tell me the max storage of an s c series",
+                        "give me the max capacity of an S C Series",
+                        "tell me the max capacity of an sc series",
+                        "tell me the maximum storage of an sc series",
+                        "how much can the sc series store",
+                        "what is the SC series max storage",
+                        "what is the SC series maxiumum capacity",
+                        "what is the max capacity of an sc series"
+                    ]
+                },
+                {
+                    "name": "PowermaxMaxCapacityIntent",
+                    "slots": [],
+                    "samples": [
+                        "give me the maximum storage on a powermax",
+                        "tell me the maximum capacity on a powermax",
+                        "tell me the max capacity of a powermax",
+                        "what is the max storage of a power max",
+                        "how much can a powermax hold",
+                        "what is the maximum configuration of a powermax",
+                        "how much can a powermax store",
+                        "what is the max capacity of a powermax"
+                    ]
+                },
+                {
+                    "name": "XtremIOMaxCapacityIntent",
+                    "slots": [],
+                    "samples": [
+                        "tell me the maximum capacity of xtremio",
+                        "give me the max capacity of extreme io",
+                        "what is the max storage of xtremio",
+                        "give the max storage of extreme io",
+                        "whats the max storage of extreme io",
+                        "tell me the max storage of extreme io",
+                        "what is the max storage of extreme io",
+                        "give me the max capacity of exteme io",
+                        "tell me the max capacity of extreme io",
+                        "What is the max capacity of an extreme IO"
+                    ]
+                },
+                {
+                    "name": "IsilonMaxCapacityIntent",
+                    "slots": [],
+                    "samples": [
+                        "whats max storage of an isilon",
+                        "whats the max capacity of isilon",
+                        "give me max storage of isilon",
+                        "give me the isilions maximum storage",
+                        "tell me maximum storage of isilon",
+                        "tell me the maximum storage of an isilon",
+                        "tell me the max storage of an eye silon",
+                        "what is the max capacity of an isilon",
+                        "What is the max capacity of an eye silon"
+                    ]
+                },
+                {
+                    "name": "ECSMaxCapacityIntent",
+                    "slots": [],
+                    "samples": [
+                        "what is the ecs maximum storage",
+                        "whats the ecs max storage",
+                        "whats the ecs maximum capacity",
+                        "what is the e c s max capacity",
+                        "whats the ECS max capacity",
+                        "whats the max capacity of an ECS",
+                        "tell me the maximum storage on an e c s",
+                        "tell me the max capacity of e c s",
+                        "give me the e c s maximum capacity",
+                        "tell me the e c s max capacity",
+                        "tell me the ecs maximum capacity",
+                        "give me the e.c.s. max capacity",
+                        "whats the E.c.s maximum capacity",
+                        "whats the max capacity of an e c s",
+                        "What is the max capacity of an E C S"
+                    ]
+                },
+                {
+                    "name": "PowervaultMaxCapacityIntent",
+                    "slots": [],
+                    "samples": [
+                        "tell me max storage of power vault",
+                        "what is the max storage of a power vault",
+                        "can you tell me the max storage of a power vault",
+                        "can you tell me the maximum capacity of a power vault",
+                        "whats the max capacity of a power vault",
+                        "tell me the max capacity of a power vault",
+                        "give me the maximum capacity of a power vault",
+                        "what is the maximum capacity of a powervault ",
+                        "What is the max capacity of a power vault"
+                    ]
+                },
+                {
+                    "name": "VXRailMaxCapacityIntent",
+                    "slots": [],
+                    "samples": [
+                        "tell me the maximum storage on a VxRail",
+                        "tell me the max Capacity of a vxRail",
+                        "give me the max storage of a VxRail",
+                        "tell me the maximum capacity of a VxRail",
+                        "what is the VxRail maximum storage",
+                        "what is VxRail max capacity",
+                        "what is maximum storage on a V X Rail",
+                        "what is maximum capaicty of V X Rail",
+                        "what is max storage of vx rail",
+                        "what is the max capacity of a VX rail"
+                    ]
+                },
+                {
+                    "name": "PowermaxEnginesIntent",
+                    "slots": [],
+                    "samples": [
+                        "how much compute is in a powermax",
+                        "maximum number of bricks can a powermax house",
+                        "how many engines can powermax support",
+                        "how many engines does a powermax have"
+                    ]
+                },
+                {
+                    "name": "VxRailPitch",
+                    "slots": [],
+                    "samples": [
+                        "tell me everything about vx rail",
+                        "tell me all about vxrail",
+                        "give me the vxrail pitch",
+                        "can you pitch me vxrail",
+                        "Pitch me vxrail"
+                    ]
+                },
+                {
+                    "name": "VxFlexPitch",
+                    "slots": [],
+                    "samples": [
+                        "tell me about v x flex",
+                        "can you pitch me vx flex",
+                        "tell me all about vx flex",
+                        "tell me the vx flex pitch",
+                        "pitch me vxflex"
+                    ]
+                },
+                {
+                    "name": "VxRackPitch",
+                    "slots": [],
+                    "samples": [
+                        "give me the vxrack pitch",
+                        "give me a pitch for vx rack",
+                        "tell me v x rack's pitch",
+                        "give me all the info on the vxrack",
+                        "give me the key highlights about vx rack",
+                        "pitch me a v x rack",
+                        "tell me all about the v x rack"
+                    ]
+                },
+                {
+                    "name": "IsilonPitch",
+                    "slots": [],
+                    "samples": [
+                        "give me the isilon pitch",
+                        "give me a pitch for isilon",
+                        "tell me Isilon's pitch",
+                        "give me all the info on the Isilon",
+                        "give me the key highlights about Isilon",
+                        "pitch me an Isilon",
+                        "tell me all about the Isilon"
+                    ]
+                },
+                {
+                    "name": "VPlexPitch",
+                    "slots": [],
+                    "samples": [
+                        "tell me the pitch of a vplex",
+                        "pitch the v plex to me",
+                        "can you pitch vplex",
+                        "can you pitch me a v plex",
+                        "tell me the pitch for V Plex",
+                        "give me the vplex pitch",
+                        "pitch me vplex"
+                    ]
+                },
+                {
+                    "name": "UnityPitch",
+                    "slots": [],
+                    "samples": [
+                        "what are the key highlights of a unity",
+                        "tell me all about the unity",
+                        "give me a pitch for the unity",
+                        "tell me the pitch for a unity",
+                        "pitch me a unity"
+                    ]
+                },
+                {
+                    "name": "xtremioPitch",
+                    "slots": [],
+                    "samples": [
+                        "tell me the extreme IO pitch",
+                        "give me extreme i o pitch",
+                        "give me the extreme io pitch",
+                        "tell me a pitch for xtremio",
+                        "give me the pitch for xtremio",
+                        "pitch me xtremio",
+                        "pitch me extreme io"
+                    ]
+                },
+                {
+                    "name": "powermaxPitch",
+                    "slots": [],
+                    "samples": [
+                        "what is the powermax vmax pitch",
+                        "give me a vmax pitch",
+                        "what is the pitch for powermax",
+                        "tell me the powermax pitch",
+                        "pitch me powermax vmax",
+                        "pitch me vmax",
+                        "give me the powermax pitch"
+                    ]
+                },
+                {
+                    "name": "ecsPitch",
+                    "slots": [],
+                    "samples": [
+                        "pitch me ecs object storage",
+                        "give me an example ecs pitch",
+                        "can you give me an ecs pitch",
+                        "tell me the elevator pitch of ECS",
+                        "give me the ecs pitch",
+                        "pitch me ecs storage",
+                        "pitch me ecs"
+                    ]
+                },
+                {
+                    "name": "XCPitch",
+                    "slots": [],
+                    "samples": [
+                        "give me the x c series pitch",
+                        "give me the xc series pitch",
+                        "give me the xc pitch",
+                        "pitch me an x c series",
+                        "pitch me the XC series",
+                        "pitch me the XC"
+                    ]
+                },
+                {
+                    "name": "MEPitch",
+                    "slots": [],
+                    "samples": [
+                        "give me the m e four series pitch",
+                        "pitch me the m e four series",
+                        "pitch the me four series",
+                        "tell me the pitch for the M.E. four Series",
+                        "tell me the pitch for the m.e. series",
+                        "give me the m.e. four series pitch",
+                        "give me the m.e. series pitch",
+                        "pitch me the M. E. four series",
+                        "pitch me the ME-four series"
+                    ]
+                },
+                {
+                    "name": "IDPAPitch",
+                    "slots": [],
+                    "samples": [
+                        "tell me the pitch for Integrated Data Protection Appliance",
+                        "tell me the pitch for idpa",
+                        "give me the ID PA pitch",
+                        "give me the IDPA pitch",
+                        "give me the Integrated Data Protection Appliance pitch",
+                        "pitch me the i d p a",
+                        "pitch me the ID PA",
+                        "pitch me the IDPA",
+                        "pitch me the Integrated Data Protection Appliance"
+                    ]
+                },
+                {
+                    "name": "DataDomainPitch",
+                    "slots": [],
+                    "samples": [
+                        "what are the key highlights for data domain",
+                        "quickly tell me the pitch for data domain",
+                        "give me the elevator pitch for data domain",
+                        "tell me the data domain pitch",
+                        "give me the data domain pitch",
+                        "pitch me data domain"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}
